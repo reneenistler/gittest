@@ -13,6 +13,8 @@
  * directory to allow the WordPress directory to remain
  * untouched.
  *
+ * blah blah blah -rfn text
+ *
  * @internal This file must be parsable by PHP4.
  *
  * @package WordPress
